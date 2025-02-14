@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Richard Wen"
@@ -16,6 +17,3 @@ format:
       - cosmo
       - brand
     css: styles.css
-
-output-dir: "."
-
