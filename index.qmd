@@ -1,7 +1,8 @@
 ---
-title: "About"
-image: profile.png
+title: "Richard Wen"
+image: img/profile.png
 about:
+  id: about
   template: jolla
   links:
     - icon: linkedin
@@ -9,8 +10,28 @@ about:
       href: https://www.linkedin.com/in/richardwen/
     - icon: github
       text: Github
-      href: https://github.com/rrwen
-
+      href: https://github.com/rrwen*
+listing:
+  - id: projects
+    contents: projects
+    type: grid
+  - id: blog
+    contents: blog
+    type: grid
 ---
 
-About this blog
+:::{#about}
+
+Data Scientist
+
+:::
+
+# Projects
+
+:::{#projects}
+:::
+
+# Recent Posts
+
+:::{#blog}
+:::
