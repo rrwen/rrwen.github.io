@@ -2,24 +2,22 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/blog/post-with-code/index.html",
       "/blog/welcome/index.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
-      "/projects/post-with-code/index.html",
-      "/projects/welcome/index.html",
-      "/blog/post-with-code/index.html",
+      "/projects/openmortality/index.html",
+      "/projects/nbc4va/index.html",
       "/blog/welcome/index.html"
     ]
   },
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/post-with-code/index.html",
-      "/projects/welcome/index.html"
+      "/projects/openmortality/index.html",
+      "/projects/nbc4va/index.html"
     ]
   }
 ]

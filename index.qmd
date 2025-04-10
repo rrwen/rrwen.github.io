@@ -15,6 +15,7 @@ listing:
   - id: projects
     contents: projects
     type: grid
+    fields: [image, title, description]
   - id: blog
     contents: blog
     type: grid

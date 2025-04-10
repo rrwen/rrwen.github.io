@@ -1,0 +1,15 @@
+---
+title: "nbc4VA R Package"
+date: "2020-09-01"
+categories: [r,statistics,package,software,ml,machine-learning,mortality,verbal-autopsy,model]
+image: "image.svg"
+description: Bayes Classifier for Verbal Autopsy Data.
+---
+
+The nbc4va R package was written during my time as a Research Assistant from August 2015 to September 2020 at the Centre for Global Health Research, Unity Health Toronto. The package contains an implementation of the Naive Bayes Classifier (NBC) algorithm used for assigning the cause of death from Verbal Autopsy (VA) with methods from [Miasnikof et al (2015)](https://doi.org/10.1186/s12916-015-0521-2).
+
+nbc4va complements the [openVA](https://openva.net/) suite of tools, as part of the [Bloomberg Philanthropies Data for Health Initiative](https://www.bloomberg.org/public-health/strengthening-health-data/), and was developed for a published co-authored paper by [Jha et al (2019)](https://doi.org/10.1186/s12916-019-1353-2) in BMC Medicine, where we examined six statistical algorithms for assigning the cause for 9374 deaths in India.
+
+The package is maintained and available at:
+
+[cran.r-project.org/package=nbc4va](https://cran.r-project.org/package=nbc4va)

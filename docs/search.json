@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Richard Wen",
     "section": "",
-    "text": "Data Scientist\n \n  \n   \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n\n\n\n\nProjects\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nFeb 13, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nFeb 10, 2025\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nRecent Posts\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nFeb 13, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nFeb 10, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Data Scientist\n \n  \n   \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n\n\n\n\nProjects\n\n\n\n\n\n\n\n\n\n\nOpen Mortality\n\n\nHelp the Living, Study the Dead.\n\n\n\n\n\n\n\n\n\n\n\n\n\nnbc4VA R Package\n\n\nBayes Classifier for Verbal Autopsy Data.\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nRecent Posts\n\n\n\n\n\n\n\n\nWelcome\n\n\n\n\n\n\n\n\n\nFeb 10, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\n\n\n\n\nFeb 13, 2025\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\n\n\n\nFeb 10, 2025\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome\n\n\n\n\n\n\n\n\n\n\n\nFeb 10, 2025\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -60,7 +60,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Open Mortality\n\n\nHelp the Living, Study the Dead.\n\n\n\n\n\n\n\n\n\n\n\n\n\nnbc4VA R Package\n\n\nBayes Classifier for Verbal Autopsy Data.\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/post-with-code/index.html",
@@ -79,9 +79,9 @@
   {
     "objectID": "blog/welcome/index.html",
     "href": "blog/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "title": "Welcome",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Placeholder"
   },
   {
     "objectID": "blog/post-with-code/index.html",
@@ -89,5 +89,19 @@
     "title": "Post With Code",
     "section": "",
     "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "projects/openmortality/index.html",
+    "href": "projects/openmortality/index.html",
+    "title": "Open Mortality",
+    "section": "",
+    "text": "The Open Mortality project is a data science initiative I started since April 2022 as the Lead Data Scientist at the Centre for Global Health Research, Unity Health Toronto, and still currently lead now.\nThe project’s mission is to empower science for improving global health with the world’s information on mortality, captured and distributed through a web platform that has made data on over 600,000 deaths available to Unity Health, University of Toronto, and their collaborators.\nFor more details on Open Mortality, please visit:\nopenmortality.org"
+  },
+  {
+    "objectID": "projects/nbc4va/index.html",
+    "href": "projects/nbc4va/index.html",
+    "title": "nbc4VA R Package",
+    "section": "",
+    "text": "The nbc4va R package was written during my time as a Research Assistant from August 2015 to September 2020 at the Centre for Global Health Research, Unity Health Toronto. The package contains an implementation of the Naive Bayes Classifier (NBC) algorithm used for assigning the cause of death from Verbal Autopsy (VA) with methods from Miasnikof et al (2015).\nnbc4va complements the openVA suite of tools, as part of the Bloomberg Philanthropies Data for Health Initiative, and was developed for a published co-authored paper by Jha et al (2019) in BMC Medicine, where we examined six statistical algorithms for assigning the cause for 9374 deaths in India.\nThe package is maintained and available at:\ncran.r-project.org/package=nbc4va"
   }
 ]
