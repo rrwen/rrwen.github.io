@@ -10,7 +10,7 @@ about:
       href: https://www.linkedin.com/in/richardwen/
     - icon: github
       text: Github
-      href: https://github.com/rrwen*
+      href: https://github.com/rrwen
 listing:
   - id: projects
     contents: projects
