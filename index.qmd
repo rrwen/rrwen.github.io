@@ -11,28 +11,10 @@ about:
     - icon: github
       text: Github
       href: https://github.com/rrwen
-listing:
-  - id: projects
-    contents: projects
-    type: grid
-    fields: [image, title, description]
-  - id: blog
-    contents: blog
-    type: grid
 ---
 
 :::{#about}
 
 Data Scientist
 
-:::
-
-# Projects
-
-:::{#projects}
-:::
-
-# Recent Posts
-
-:::{#blog}
 :::

@@ -6,7 +6,7 @@ image: "image.svg"
 description: Help the Living, Study the Dead.
 ---
 
-The Open Mortality project is a data science initiative I started since April 2022 as the Lead Data Scientist at the Centre for Global Health Research, Unity Health Toronto, and still currently lead now.
+The Open Mortality project is a data science initiative I started since April 2022 as the Lead Data Scientist at the Centre for Global Health Research, Unity Health Toronto, and currently lead.
 
 The project's mission is to empower science for improving global health with the world's information on mortality, captured and distributed through a web platform that has made data on over 600,000 deaths available to Unity Health, University of Toronto, and their collaborators.
 
